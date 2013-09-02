@@ -1,4 +1,4 @@
 school
 ======
 
-School stuff
+School stuff. First Read.me file. You know it.
